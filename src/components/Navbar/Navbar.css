@@ -1,0 +1,63 @@
+
+
+/* /* .container{
+padding: 30px;
+margin:30px;
+height: 80px; }*/
+
+
+
+
+
+#imagelogo{
+    
+    cursor: pointer;
+    /* margin: 30px; */
+}
+/* .main{
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+} */
+#mybtn{
+    margin-left: 120px;
+    background-color: tomato;
+    border: 0;
+    width: 150px;
+    height: 50px;
+    border-radius: 4px;
+    color: white;
+    font-family:'Times New Roman', Times, serif
+    
+
+}
+#menu{
+    display: flex;
+    flex-direction: row;
+   
+
+}
+ #menu a {
+    margin-right: 30px;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+ }
+
+ #menu  :hover{
+    color: tomato;
+    
+ } 
+
+.container{
+    position: sticky;
+    top: 0;
+    margin-top: 30px;
+    height: 60px;
+    scroll-behavior: smooth;
+
+
+}

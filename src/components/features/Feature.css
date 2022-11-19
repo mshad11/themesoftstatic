@@ -1,0 +1,86 @@
+/* *{margin: 0;
+padding: 0;} */
+h6{
+    color: tomato;
+}
+.features{
+    height: 60rem;
+    width: 100vw;
+    background-color: rgb(236, 236, 236);
+
+}
+
+.feat{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#notification{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 15px;
+}
+#paranoti{
+    margin-left: 25px;
+}
+
+#videocall{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 15px;
+}
+#paravideo{
+    margin-left: 25px;
+}
+
+#userchat{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 15px;
+}
+
+#parauser{
+    margin-left: 25px;
+}
+
+#installapp{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 15px;
+
+}
+
+#parainstall{
+    margin-left: 25px;
+}
+
+
+.left{
+    display: flex;
+    flex-direction: column;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    margin-right: -6rem;
+
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+}
+
+.image{
+    margin-left: 250px;
+    margin-right: 250px;
+}
